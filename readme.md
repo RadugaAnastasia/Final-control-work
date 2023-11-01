@@ -36,3 +36,4 @@ _Примеры:_
 
 #### Блок-схема алгоритма ####
 ![блок-схема](Algorithm.png)
+(https://disk.yandex.ru/i/YkdaeOP-cU6VYg)
