@@ -19,3 +19,11 @@ _Примеры:_
 [“Russia”, “Denmark”, “Kazan”] → []
 
 
+#### УДАЛЕННЫЙ РЕПОЗИТОРИЙ ####
+Ссылка на удаленный репозиторий на [GitHub](https://github.com/RadugaAnastasia/Final-control-work) 
+
+
+
+### Описание алгоритма решения ###
+
+1. 
